@@ -1,9 +1,10 @@
 <img align="center" width="500" src="https://lh3.googleusercontent.com/a/ACg8ocLKyHxCKdgHnGNC0Ykn_Q-gRLcUkh2IYMXOaTnGHSPU36ID=s360-c-no">
 <h1 align="center">Hi 👋, I'm Tausif Hossain</h1>
 <h3 align="center">Young Software Engineer who loves web development</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="center" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tausif-h6" alt="tausif-h6" /></a> </p>
-
+<br/>
 - 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://tausif-portfolio-frontend.onrender.com/](https://tausif-portfolio-frontend.onrender.com/)
