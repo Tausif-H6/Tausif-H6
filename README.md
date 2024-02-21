@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tausif Hossain</h1>
-<h3 align="center">Young Software Engineer who loves web development</h3>
-<img align="center" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<h1 align="center" > Hi 👋, I'm Tausif Hossain </h1> 
+
+<h3 align="center">FullStack Developer</h3>
+<p align="center">
+  <img style="display: block; margin: auto;" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Animated GIF">
+</p>
+
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tausif-h6" alt="tausif-h6" /></a> </p>
 <br/>
