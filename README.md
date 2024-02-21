@@ -1,4 +1,3 @@
-<img align="center" width="500" src="https://lh3.googleusercontent.com/a/ACg8ocLKyHxCKdgHnGNC0Ykn_Q-gRLcUkh2IYMXOaTnGHSPU36ID=s360-c-no">
 <h1 align="center">Hi 👋, I'm Tausif Hossain</h1>
 <h3 align="center">Young Software Engineer who loves web development</h3>
 <img align="center" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
