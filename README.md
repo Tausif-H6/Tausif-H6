@@ -3,7 +3,7 @@
 <h3 align="center">Passionate FullStack Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXd4ZWI2dGw5cGNzdGQ1bTk0dGpnMTdoaWd6cXJ2dWtkZG83Y2UxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coding GIF" width="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXd4ZWI2dGw5cGNzdGQ1bTk0dGpnMTdoaWd6cXJ2dWtkZG83Y2UxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coding GIF" width="600" style="border-radius: 15px;"/>
 </p>
 
 ---
@@ -67,14 +67,18 @@
   </a>
 </p>
 
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tausif-h6&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tausif-h6&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tausif-h6&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tausif-h6&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tausif-h6&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tausif-h6&theme=radical" alt="GitHub Streak" style="border-radius: 10px;" />
 </p>
