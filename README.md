@@ -1,84 +1,34 @@
-<h1 align="center">Hi there, I'm <span style="color: #007acc;">Tausif Hossain</span> 👋</h1>
+# 👨‍💻 Tausif Hossain
 
-<h3 align="center">Passionate FullStack Developer | Lifelong Learner</h3>
+## Full Stack Innovator | Cloud & Web Architecture Specialist
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXd4ZWI2dGw5cGNzdGQ1bTk0dGpnMTdoaWd6cXJ2dWtkZG83Y2UxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coding GIF" width="600" style="border-radius: 15px;"/>
-</p>
+### 🌐 Professional Landscape
 
----
+#### Tech Ecosystem
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tausif-h6&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🌱 Currently mastering **Next.js**
-- 👨‍💻 Explore my work: [My Portfolio](https://tausif-portfolio-frontend.onrender.com/)
-- 💬 Ask me about **React, JavaScript, Node.js**
-- 📫 Let's connect: **tausifhossain127@gmail.com**
-
----
-
-### 🌐 Connect with Me
+### 📊 Code Metrics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tausif-hossain-026317202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/hossain_tausif" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tausif-h6&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausif-h6&layout=compact&theme=algolia"/>
 </p>
 
----
+### 🏆 Professional Highlights
 
-### 🛠️ Tech Stack
+- 🚀 Mastering Scalable Web Architectures
+- 💡 Specializing in Next.js & Microservices
+- 🔬 Cloud-Native Application Design
+- 📦 Containerization & Deployment Expertise
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  </a>
-</p>
+### 🌟 Professional Networks
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tausif-hossain-026317202/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://tausif-portfolio-frontend.onrender.com/)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tausif-h6&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tausif-h6&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tausif-h6&theme=radical" alt="GitHub Streak" style="border-radius: 10px;" />
-</p>
+*Transforming Complex Problems into Elegant Solutions*
